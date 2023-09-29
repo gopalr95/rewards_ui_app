@@ -1,1 +1,1 @@
-# rewards_ui_app
+# customer_rewards_ui_app
